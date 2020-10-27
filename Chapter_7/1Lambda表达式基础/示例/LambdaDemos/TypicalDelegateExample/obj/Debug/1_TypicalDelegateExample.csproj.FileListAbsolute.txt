@@ -1,0 +1,6 @@
+C:\Mooc\人大MOOC\6 LINQ to Object\1 Lambda表达式\LambdaDemos\TypicalDelegateExample\bin\Debug\TypicalDelegateExample.exe.config
+C:\Mooc\人大MOOC\6 LINQ to Object\1 Lambda表达式\LambdaDemos\TypicalDelegateExample\obj\Debug\TypicalDelegateExample.exe
+C:\Mooc\人大MOOC\6 LINQ to Object\1 Lambda表达式\LambdaDemos\TypicalDelegateExample\obj\Debug\TypicalDelegateExample.pdb
+E:\LambdaDemos\TypicalDelegateExample\bin\Debug\TypicalDelegateExample.exe.config
+E:\LambdaDemos\TypicalDelegateExample\obj\Debug\TypicalDelegateExample.exe
+E:\LambdaDemos\TypicalDelegateExample\obj\Debug\TypicalDelegateExample.pdb

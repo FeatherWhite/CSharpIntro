@@ -1,0 +1,11 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\1_EntityFramework概述\WhatIsEF\WhatIsEF\obj\Debug\WhatIsEF.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\1_EntityFramework概述\WhatIsEF\WhatIsEF\bin\Debug\WhatIsEF.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\1_EntityFramework概述\WhatIsEF\WhatIsEF\bin\Debug\WhatIsEF.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\1_EntityFramework概述\WhatIsEF\WhatIsEF\bin\Debug\WhatIsEF.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\1_EntityFramework概述\WhatIsEF\WhatIsEF\bin\Debug\EntityFramework.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\1_EntityFramework概述\WhatIsEF\WhatIsEF\bin\Debug\EntityFramework.SqlServer.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\1_EntityFramework概述\WhatIsEF\WhatIsEF\bin\Debug\EntityFramework.xml
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\1_EntityFramework概述\WhatIsEF\WhatIsEF\bin\Debug\EntityFramework.SqlServer.xml
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\1_EntityFramework概述\WhatIsEF\WhatIsEF\obj\Debug\WhatIsEF.csproj.CopyComplete
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\1_EntityFramework概述\WhatIsEF\WhatIsEF\obj\Debug\WhatIsEF.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\1_EntityFramework概述\WhatIsEF\WhatIsEF\obj\Debug\WhatIsEF.pdb

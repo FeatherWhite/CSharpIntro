@@ -1,0 +1,23 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\EvolutionToLINQ\bin\Debug\EvolutionToLINQ.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\EvolutionToLINQ\bin\Debug\EvolutionToLINQ.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\EvolutionToLINQ\bin\Debug\EvolutionToLINQ.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\EvolutionToLINQ\obj\Debug\EvolutionToLINQ.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\EvolutionToLINQ\obj\Debug\EvolutionToLINQ.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\EvolutionToLINQ\bin\Debug\EvolutionToLINQ.exe.config
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\EvolutionToLINQ\obj\Debug\EvolutionToLINQ.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\EvolutionToLINQ\obj\Debug\EvolutionToLINQ.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\EvolutionToLINQ\bin\Debug\EvolutionToLINQ.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\EvolutionToLINQ\bin\Debug\EvolutionToLINQ.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\LINQ基础\LINQDemos\EvolutionToLINQ\obj\Debug\EvolutionToLINQ.csprojResolveAssemblyReference.cache
+G:\MOOC\录课视频相关文件\人大MOOC\8 LINQ to Object\4 LINQ进化史\EvolutionToLINQ\EvolutionToLINQ\bin\Debug\EvolutionToLINQ.exe.config
+G:\MOOC\录课视频相关文件\人大MOOC\8 LINQ to Object\4 LINQ进化史\EvolutionToLINQ\EvolutionToLINQ\bin\Debug\EvolutionToLINQ.exe
+G:\MOOC\录课视频相关文件\人大MOOC\8 LINQ to Object\4 LINQ进化史\EvolutionToLINQ\EvolutionToLINQ\bin\Debug\EvolutionToLINQ.pdb
+G:\MOOC\录课视频相关文件\人大MOOC\8 LINQ to Object\4 LINQ进化史\EvolutionToLINQ\EvolutionToLINQ\obj\Debug\EvolutionToLINQ.csprojResolveAssemblyReference.cache
+G:\MOOC\录课视频相关文件\人大MOOC\8 LINQ to Object\4 LINQ进化史\EvolutionToLINQ\EvolutionToLINQ\obj\Debug\EvolutionToLINQ.exe
+G:\MOOC\录课视频相关文件\人大MOOC\8 LINQ to Object\4 LINQ进化史\EvolutionToLINQ\EvolutionToLINQ\obj\Debug\EvolutionToLINQ.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例1\EvolutionToLINQ\EvolutionToLINQ\bin\Debug\EvolutionToLINQ.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例1\EvolutionToLINQ\EvolutionToLINQ\bin\Debug\EvolutionToLINQ.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例1\EvolutionToLINQ\EvolutionToLINQ\bin\Debug\EvolutionToLINQ.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例1\EvolutionToLINQ\EvolutionToLINQ\obj\Debug\EvolutionToLINQ.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例1\EvolutionToLINQ\EvolutionToLINQ\obj\Debug\EvolutionToLINQ.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例1\EvolutionToLINQ\EvolutionToLINQ\obj\Debug\EvolutionToLINQ.pdb

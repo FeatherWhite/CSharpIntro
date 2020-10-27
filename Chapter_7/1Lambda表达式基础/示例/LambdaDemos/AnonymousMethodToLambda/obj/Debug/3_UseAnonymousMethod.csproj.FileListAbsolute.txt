@@ -1,0 +1,8 @@
+E:\DelegateDemos\UseAnonymousMethod\bin\Debug\UseAnonymousMethod.exe.config
+E:\DelegateDemos\UseAnonymousMethod\bin\Debug\UseAnonymousMethod.exe
+E:\DelegateDemos\UseAnonymousMethod\bin\Debug\UseAnonymousMethod.pdb
+E:\DelegateDemos\UseAnonymousMethod\obj\Debug\UseAnonymousMethod.exe
+E:\DelegateDemos\UseAnonymousMethod\obj\Debug\UseAnonymousMethod.pdb
+C:\Mooc\人大MOOC\8 数据库开发技术基础\1 基础\Lambda表达式\LambdaDemos\UseAnonymousMethod\bin\Debug\UseAnonymousMethod.exe.config
+C:\Mooc\人大MOOC\8 数据库开发技术基础\1 基础\Lambda表达式\LambdaDemos\UseAnonymousMethod\obj\Debug\UseAnonymousMethod.exe
+C:\Mooc\人大MOOC\8 数据库开发技术基础\1 基础\Lambda表达式\LambdaDemos\UseAnonymousMethod\obj\Debug\UseAnonymousMethod.pdb

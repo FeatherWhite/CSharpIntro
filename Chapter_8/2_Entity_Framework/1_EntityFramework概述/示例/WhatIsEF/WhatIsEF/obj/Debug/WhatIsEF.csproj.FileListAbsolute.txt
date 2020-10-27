@@ -1,0 +1,22 @@
+D:\Test\WhatIsEF\WhatIsEF\bin\Debug\WhatIsEF.exe.config
+D:\Test\WhatIsEF\WhatIsEF\bin\Debug\WhatIsEF.exe
+D:\Test\WhatIsEF\WhatIsEF\bin\Debug\WhatIsEF.pdb
+D:\Test\WhatIsEF\WhatIsEF\bin\Debug\EntityFramework.dll
+D:\Test\WhatIsEF\WhatIsEF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Test\WhatIsEF\WhatIsEF\bin\Debug\EntityFramework.xml
+D:\Test\WhatIsEF\WhatIsEF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Test\WhatIsEF\WhatIsEF\obj\Debug\WhatIsEF.csprojResolveAssemblyReference.cache
+D:\Test\WhatIsEF\WhatIsEF\obj\Debug\WhatIsEF.exe
+D:\Test\WhatIsEF\WhatIsEF\obj\Debug\WhatIsEF.pdb
+C:\Mooc\人大MOOC\7 数据库开发技术基础\2 Entity Framework\1 概述\WhatIsEF\WhatIsEF\bin\Debug\WhatIsEF.exe.config
+C:\Mooc\人大MOOC\7 数据库开发技术基础\2 Entity Framework\1 概述\WhatIsEF\WhatIsEF\obj\Debug\WhatIsEF.exe
+C:\Mooc\人大MOOC\7 数据库开发技术基础\2 Entity Framework\1 概述\WhatIsEF\WhatIsEF\obj\Debug\WhatIsEF.pdb
+F:\WhatIsEF\WhatIsEF\bin\Debug\WhatIsEF.exe.config
+F:\WhatIsEF\WhatIsEF\obj\Debug\WhatIsEF.exe
+F:\WhatIsEF\WhatIsEF\obj\Debug\WhatIsEF.pdb
+F:\WhatIsEF\WhatIsEF\bin\Debug\WhatIsEF.exe
+F:\WhatIsEF\WhatIsEF\bin\Debug\WhatIsEF.pdb
+F:\WhatIsEF\WhatIsEF\bin\Debug\EntityFramework.dll
+F:\WhatIsEF\WhatIsEF\bin\Debug\EntityFramework.SqlServer.dll
+F:\WhatIsEF\WhatIsEF\bin\Debug\EntityFramework.xml
+F:\WhatIsEF\WhatIsEF\bin\Debug\EntityFramework.SqlServer.xml

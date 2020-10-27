@@ -1,0 +1,5 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLib\bin\Debug\ClassLib.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLib\bin\Debug\ClassLib.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLib\obj\Debug\ClassLib.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLib\obj\Debug\ClassLib.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLib\obj\Debug\ClassLib.csprojAssemblyReference.cache

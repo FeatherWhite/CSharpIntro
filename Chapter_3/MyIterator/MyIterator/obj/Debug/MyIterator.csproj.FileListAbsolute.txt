@@ -1,0 +1,7 @@
+E:\doucments\MyProject\Csharp\jin\Chapter_3\MyIterator\MyIterator\bin\Debug\MyIterator.exe.config
+E:\doucments\MyProject\Csharp\jin\Chapter_3\MyIterator\MyIterator\bin\Debug\MyIterator.exe
+E:\doucments\MyProject\Csharp\jin\Chapter_3\MyIterator\MyIterator\bin\Debug\MyIterator.pdb
+E:\doucments\MyProject\Csharp\jin\Chapter_3\MyIterator\MyIterator\obj\Debug\MyIterator.csprojAssemblyReference.cache
+E:\doucments\MyProject\Csharp\jin\Chapter_3\MyIterator\MyIterator\obj\Debug\MyIterator.csproj.CoreCompileInputs.cache
+E:\doucments\MyProject\Csharp\jin\Chapter_3\MyIterator\MyIterator\obj\Debug\MyIterator.exe
+E:\doucments\MyProject\Csharp\jin\Chapter_3\MyIterator\MyIterator\obj\Debug\MyIterator.pdb

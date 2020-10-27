@@ -1,0 +1,3 @@
+F:\LINQDemo\LINQExamples\bin\Debug\LINQExamples.exe.config
+F:\LINQDemo\LINQExamples\obj\Debug\LINQExamples.exe
+F:\LINQDemo\LINQExamples\obj\Debug\LINQExamples.pdb

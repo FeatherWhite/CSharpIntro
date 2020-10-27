@@ -1,0 +1,6 @@
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\IntroToLINQ\bin\Debug\IntroToLINQ.exe.config
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\IntroToLINQ\obj\Debug\IntroToLINQ.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\IntroToLINQ\obj\Debug\IntroToLINQ.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\IntroToLINQ\bin\Debug\IntroToLINQ.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\IntroToLINQ\bin\Debug\IntroToLINQ.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\IntroToLINQ\obj\Debug\9 IntroToLINQ.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\UseSetAndAggregateMethods\bin\Debug\UseSetAndAggregateMethods.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\UseSetAndAggregateMethods\bin\Debug\UseSetAndAggregateMethods.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\UseSetAndAggregateMethods\bin\Debug\UseSetAndAggregateMethods.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\UseSetAndAggregateMethods\obj\Debug\UseSetAndAggregateMethods.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\UseSetAndAggregateMethods\obj\Debug\UseSetAndAggregateMethods.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\UseSetAndAggregateMethods\obj\Debug\4_UseSetAndAggregateMethods.csprojAssemblyReference.cache

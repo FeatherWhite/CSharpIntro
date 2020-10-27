@@ -1,0 +1,6 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\Lambda表达式基础\示例\LambdaDemos\UsePredicateDelegate\bin\Debug\UsePredicateDelegate.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\Lambda表达式基础\示例\LambdaDemos\UsePredicateDelegate\bin\Debug\UsePredicateDelegate.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\Lambda表达式基础\示例\LambdaDemos\UsePredicateDelegate\bin\Debug\UsePredicateDelegate.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\Lambda表达式基础\示例\LambdaDemos\UsePredicateDelegate\obj\Debug\6_UsePredicateDelegate.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\Lambda表达式基础\示例\LambdaDemos\UsePredicateDelegate\obj\Debug\UsePredicateDelegate.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\Lambda表达式基础\示例\LambdaDemos\UsePredicateDelegate\obj\Debug\UsePredicateDelegate.pdb

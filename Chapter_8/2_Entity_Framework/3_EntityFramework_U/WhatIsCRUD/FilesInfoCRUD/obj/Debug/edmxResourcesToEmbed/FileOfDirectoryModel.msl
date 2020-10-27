@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SearchedFilesModelStoreContainer" CdmEntityContainer="FilesDBContext">
+    <EntitySetMapping Name="tDirectories">
+      <EntityTypeMapping TypeName="SearchedFilesModel.tDirectory">
+        <MappingFragment StoreEntitySet="tDirectory">
+          <ScalarProperty Name="DirectoryId" ColumnName="DirectoryId" />
+          <ScalarProperty Name="Directory" ColumnName="Directory" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tFiles">
+      <EntityTypeMapping TypeName="SearchedFilesModel.tFile">
+        <MappingFragment StoreEntitySet="tFile">
+          <ScalarProperty Name="FileId" ColumnName="FileId" />
+          <ScalarProperty Name="DirectoryId" ColumnName="DirectoryId" />
+          <ScalarProperty Name="sFile" ColumnName="sFile" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

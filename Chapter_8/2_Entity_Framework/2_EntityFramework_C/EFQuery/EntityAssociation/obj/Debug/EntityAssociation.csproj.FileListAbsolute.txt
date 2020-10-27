@@ -1,0 +1,11 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\EntityAssociation\bin\Debug\EntityAssociation.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\EntityAssociation\bin\Debug\EntityAssociation.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\EntityAssociation\bin\Debug\EntityAssociation.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\EntityAssociation\bin\Debug\EntityFramework.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\EntityAssociation\bin\Debug\EntityFramework.SqlServer.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\EntityAssociation\bin\Debug\EntityFramework.xml
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\EntityAssociation\bin\Debug\EntityFramework.SqlServer.xml
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\EntityAssociation\obj\Debug\EntityAssociation.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\EntityAssociation\obj\Debug\EntityAssociation.csproj.CopyComplete
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\EntityAssociation\obj\Debug\EntityAssociation.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\EntityAssociation\obj\Debug\EntityAssociation.pdb

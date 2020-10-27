@@ -1,0 +1,11 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\QueryData\bin\Debug\QueryData.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\QueryData\bin\Debug\QueryData.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\QueryData\bin\Debug\QueryData.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\QueryData\bin\Debug\EntityFramework.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\QueryData\bin\Debug\EntityFramework.SqlServer.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\QueryData\bin\Debug\EntityFramework.xml
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\QueryData\bin\Debug\EntityFramework.SqlServer.xml
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\QueryData\obj\Debug\QueryData.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\QueryData\obj\Debug\QueryData.csproj.CopyComplete
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\QueryData\obj\Debug\QueryData.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\EFQuery\QueryData\obj\Debug\QueryData.pdb

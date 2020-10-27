@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MyDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Book">
+    <Key>
+      <PropertyRef Name="BookId" />
+    </Key>
+    <Property Name="BookId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BookName" Type="nvarchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BookReview">
+    <Key>
+      <PropertyRef Name="BookReviewId" />
+    </Key>
+    <Property Name="BookReviewId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Review" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="BookId" Type="int" Nullable="false" />
+    <Property Name="ReaderName" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'MyDB.dbo.OrderClient' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="OrderClient">
+    <Key>
+      <PropertyRef Name="ClientID" />
+    </Key>
+    <Property Name="ClientID" Type="int" Nullable="false" />
+    <Property Name="ClientName" Type="nvarchar" MaxLength="20" />
+    <Property Name="Address" Type="nvarchar" MaxLength="80" />
+    <Property Name="PostCode" Type="nvarchar" MaxLength="6" />
+    <Property Name="Telephone" Type="nvarchar" MaxLength="100" />
+    <Property Name="Email" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <Association Name="FK_BookReview_Book">
+    <End Role="Book" Type="Self.Book" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="BookReview" Type="Self.BookReview" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Book">
+        <PropertyRef Name="BookId" />
+      </Principal>
+      <Dependent Role="BookReview">
+        <PropertyRef Name="BookId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MyDBModelStoreContainer">
+    <EntitySet Name="Book" EntityType="Self.Book" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BookReview" EntityType="Self.BookReview" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OrderClient" EntityType="Self.OrderClient" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [OrderClient].[ClientID] AS [ClientID], 
+    [OrderClient].[ClientName] AS [ClientName], 
+    [OrderClient].[Address] AS [Address], 
+    [OrderClient].[PostCode] AS [PostCode], 
+    [OrderClient].[Telephone] AS [Telephone], 
+    [OrderClient].[Email] AS [Email]
+    FROM [dbo].[OrderClient] AS [OrderClient]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_BookReview_Book" Association="Self.FK_BookReview_Book">
+      <End Role="Book" EntitySet="Book" />
+      <End Role="BookReview" EntitySet="BookReview" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

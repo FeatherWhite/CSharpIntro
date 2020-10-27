@@ -1,0 +1,11 @@
+E:\doucments\visual_studio_2019\projects\Csharp\jin\Chapter_8\2_Entity_Framework\3_EntityFramework_U\WhatIsCRUD\CRUD\bin\Debug\CRUD.exe.config
+E:\doucments\visual_studio_2019\projects\Csharp\jin\Chapter_8\2_Entity_Framework\3_EntityFramework_U\WhatIsCRUD\CRUD\bin\Debug\CRUD.exe
+E:\doucments\visual_studio_2019\projects\Csharp\jin\Chapter_8\2_Entity_Framework\3_EntityFramework_U\WhatIsCRUD\CRUD\bin\Debug\CRUD.pdb
+E:\doucments\visual_studio_2019\projects\Csharp\jin\Chapter_8\2_Entity_Framework\3_EntityFramework_U\WhatIsCRUD\CRUD\bin\Debug\EntityFramework.dll
+E:\doucments\visual_studio_2019\projects\Csharp\jin\Chapter_8\2_Entity_Framework\3_EntityFramework_U\WhatIsCRUD\CRUD\bin\Debug\EntityFramework.SqlServer.dll
+E:\doucments\visual_studio_2019\projects\Csharp\jin\Chapter_8\2_Entity_Framework\3_EntityFramework_U\WhatIsCRUD\CRUD\bin\Debug\EntityFramework.xml
+E:\doucments\visual_studio_2019\projects\Csharp\jin\Chapter_8\2_Entity_Framework\3_EntityFramework_U\WhatIsCRUD\CRUD\bin\Debug\EntityFramework.SqlServer.xml
+E:\doucments\visual_studio_2019\projects\Csharp\jin\Chapter_8\2_Entity_Framework\3_EntityFramework_U\WhatIsCRUD\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\Csharp\jin\Chapter_8\2_Entity_Framework\3_EntityFramework_U\WhatIsCRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+E:\doucments\visual_studio_2019\projects\Csharp\jin\Chapter_8\2_Entity_Framework\3_EntityFramework_U\WhatIsCRUD\CRUD\obj\Debug\CRUD.exe
+E:\doucments\visual_studio_2019\projects\Csharp\jin\Chapter_8\2_Entity_Framework\3_EntityFramework_U\WhatIsCRUD\CRUD\obj\Debug\CRUD.pdb

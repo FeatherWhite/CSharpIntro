@@ -1,0 +1,5 @@
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\UseQueryMethods\bin\Debug\UseQueryMethods.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\UseQueryMethods\bin\Debug\UseQueryMethods.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\UseQueryMethods\obj\Debug\8 UseQueryMethods.csprojResolveAssemblyReference.cache
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\UseQueryMethods\obj\Debug\UseQueryMethods.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\UseQueryMethods\obj\Debug\UseQueryMethods.pdb

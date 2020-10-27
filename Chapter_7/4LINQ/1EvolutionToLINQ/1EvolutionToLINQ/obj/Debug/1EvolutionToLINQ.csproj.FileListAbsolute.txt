@@ -1,0 +1,6 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\1EvolutionToLINQ\1EvolutionToLINQ\bin\Debug\1EvolutionToLINQ.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\1EvolutionToLINQ\1EvolutionToLINQ\bin\Debug\1EvolutionToLINQ.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\1EvolutionToLINQ\1EvolutionToLINQ\bin\Debug\1EvolutionToLINQ.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\1EvolutionToLINQ\1EvolutionToLINQ\obj\Debug\1EvolutionToLINQ.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\1EvolutionToLINQ\1EvolutionToLINQ\obj\Debug\1EvolutionToLINQ.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\1EvolutionToLINQ\1EvolutionToLINQ\obj\Debug\1EvolutionToLINQ.pdb

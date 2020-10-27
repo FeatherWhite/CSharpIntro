@@ -1,0 +1,6 @@
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\GenericDelegateInBaseClassLibrary\bin\Debug\GenericDelegateInBaseClassLibrary.exe.config
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\GenericDelegateInBaseClassLibrary\bin\Debug\GenericDelegateInBaseClassLibrary.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\GenericDelegateInBaseClassLibrary\bin\Debug\GenericDelegateInBaseClassLibrary.pdb
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\GenericDelegateInBaseClassLibrary\obj\Debug\6_GenericDelegateInBaseClassLibrary.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\GenericDelegateInBaseClassLibrary\obj\Debug\GenericDelegateInBaseClassLibrary.exe
+E:\MOOC\录课视频相关文件\Week2\3 .NET核心技术选讲：委托和事件\1 委托\DelegateDemos\GenericDelegateInBaseClassLibrary\obj\Debug\GenericDelegateInBaseClassLibrary.pdb

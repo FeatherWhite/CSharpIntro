@@ -1,0 +1,12 @@
+F:\LINQDemo\LINQGroupExamples\bin\Debug\LINQGroupExamples.exe.config
+F:\LINQDemo\LINQGroupExamples\obj\Debug\LINQGroupExamples.exe
+F:\LINQDemo\LINQGroupExamples\obj\Debug\LINQGroupExamples.pdb
+F:\LINQDemo\LINQGroupExamples\bin\Debug\LINQGroupExamples.exe
+F:\LINQDemo\LINQGroupExamples\bin\Debug\LINQGroupExamples.pdb
+F:\LINQDemo\LINQGroupExamples\obj\Debug\2_LINQGroupExamples.csprojResolveAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例3\LINQDemo\LINQGroupExamples\bin\Debug\LINQGroupExamples.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例3\LINQDemo\LINQGroupExamples\bin\Debug\LINQGroupExamples.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例3\LINQDemo\LINQGroupExamples\bin\Debug\LINQGroupExamples.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例3\LINQDemo\LINQGroupExamples\obj\Debug\2_LINQGroupExamples.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例3\LINQDemo\LINQGroupExamples\obj\Debug\LINQGroupExamples.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例3\LINQDemo\LINQGroupExamples\obj\Debug\LINQGroupExamples.pdb

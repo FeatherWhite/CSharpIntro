@@ -1,0 +1,20 @@
+E:\EFQueryDemos\QueryData\bin\Debug\QueryData.exe.config
+E:\EFQueryDemos\QueryData\obj\Debug\QueryData.exe
+E:\EFQueryDemos\QueryData\obj\Debug\QueryData.pdb
+E:\EFQueryDemos\QueryData\bin\Debug\QueryData.exe
+E:\EFQueryDemos\QueryData\bin\Debug\QueryData.pdb
+E:\EFQueryDemos\QueryData\bin\Debug\EntityFramework.dll
+E:\EFQueryDemos\QueryData\bin\Debug\EntityFramework.SqlServer.dll
+E:\EFQueryDemos\QueryData\bin\Debug\EntityFramework.xml
+E:\EFQueryDemos\QueryData\bin\Debug\EntityFramework.SqlServer.xml
+E:\EFQueryDemos\QueryData\obj\Debug\1 QueryData.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\QueryData\bin\Debug\QueryData.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\QueryData\obj\Debug\QueryData.exe
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\QueryData\obj\Debug\QueryData.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\QueryData\bin\Debug\QueryData.exe
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\QueryData\bin\Debug\QueryData.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\QueryData\bin\Debug\EntityFramework.dll
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\QueryData\bin\Debug\EntityFramework.SqlServer.dll
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\QueryData\bin\Debug\EntityFramework.xml
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\QueryData\bin\Debug\EntityFramework.SqlServer.xml
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\QueryData\obj\Debug\1 QueryData.csprojResolveAssemblyReference.cache

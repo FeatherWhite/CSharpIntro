@@ -1,0 +1,5 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\WriteToConsole\bin\Debug\WriteToConsole.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\WriteToConsole\bin\Debug\WriteToConsole.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\WriteToConsole\bin\Debug\WriteToConsole.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\WriteToConsole\obj\Debug\WriteToConsole.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\WriteToConsole\obj\Debug\WriteToConsole.pdb

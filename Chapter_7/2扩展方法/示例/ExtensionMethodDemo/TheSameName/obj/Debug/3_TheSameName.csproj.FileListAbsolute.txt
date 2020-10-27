@@ -1,0 +1,6 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\示例\ExtensionMethodDemo\TheSameName\bin\Debug\TheSameName.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\示例\ExtensionMethodDemo\TheSameName\bin\Debug\TheSameName.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\示例\ExtensionMethodDemo\TheSameName\bin\Debug\TheSameName.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\示例\ExtensionMethodDemo\TheSameName\obj\Debug\3_TheSameName.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\示例\ExtensionMethodDemo\TheSameName\obj\Debug\TheSameName.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\示例\ExtensionMethodDemo\TheSameName\obj\Debug\TheSameName.pdb

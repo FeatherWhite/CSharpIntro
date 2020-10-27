@@ -1,0 +1,4 @@
+E:\UseQueryMethods\obj\Debug\UseQueryMethods.exe
+E:\UseQueryMethods\obj\Debug\UseQueryMethods.pdb
+E:\CollectionQueryDemo\UseQueryMethods\obj\Debug\UseQueryMethods.exe
+E:\CollectionQueryDemo\UseQueryMethods\obj\Debug\UseQueryMethods.pdb

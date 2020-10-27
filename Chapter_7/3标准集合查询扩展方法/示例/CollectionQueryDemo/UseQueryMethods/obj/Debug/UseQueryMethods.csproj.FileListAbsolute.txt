@@ -1,0 +1,31 @@
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseQueryMethods\bin\Debug\UseQueryMethods.exe
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseQueryMethods\bin\Debug\UseQueryMethods.pdb
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseQueryMethods\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseQueryMethods\obj\Debug\UseQueryMethods.exe
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UseQueryMethods\obj\Debug\UseQueryMethods.pdb
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\Lambda表达式、扩展方法与通用集合运算符\SourceCode\UseQueryMethods\UseQueryMethods\obj\Debug\UseQueryMethods.exe
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\Lambda表达式、扩展方法与通用集合运算符\SourceCode\UseQueryMethods\UseQueryMethods\obj\Debug\UseQueryMethods.pdb
+D:\jxl\教案\C#面向对象程序设计\3 C#3.0与.NET 3.5面向对象编程进阶\4 Lambda表达式、扩展方法与通用集合运算符\SourceCode\UseQueryMethods\UseQueryMethods\bin\Debug\UseQueryMethods.exe
+D:\jxl\教案\C#面向对象程序设计\3 C#3.0与.NET 3.5面向对象编程进阶\4 Lambda表达式、扩展方法与通用集合运算符\SourceCode\UseQueryMethods\UseQueryMethods\bin\Debug\UseQueryMethods.pdb
+D:\jxl\教案\C#面向对象程序设计\3 C#3.0与.NET 3.5面向对象编程进阶\4 Lambda表达式、扩展方法与通用集合运算符\SourceCode\UseQueryMethods\UseQueryMethods\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\教案\C#面向对象程序设计\3 C#3.0与.NET 3.5面向对象编程进阶\4 Lambda表达式、扩展方法与通用集合运算符\SourceCode\UseQueryMethods\UseQueryMethods\obj\Debug\UseQueryMethods.exe
+D:\jxl\教案\C#面向对象程序设计\3 C#3.0与.NET 3.5面向对象编程进阶\4 Lambda表达式、扩展方法与通用集合运算符\SourceCode\UseQueryMethods\UseQueryMethods\obj\Debug\UseQueryMethods.pdb
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\10 Lambda表达式、扩展方法与通用集合运算符\SourceCode\UseQueryMethods\UseQueryMethods\obj\Debug\UseQueryMethods.exe
+C:\jxl\技术讲座\C#4.0面向对象编程与.NET Framework 4.0核心技术\10 Lambda表达式、扩展方法与通用集合运算符\SourceCode\UseQueryMethods\UseQueryMethods\obj\Debug\UseQueryMethods.pdb
+C:\jxl\教案\C#面向对象程序设计\3 C#4.0与.NET 4.0面向对象程序进阶\4 Lambda表达式、扩展方法与通用集合运算符\SourceCode\UseQueryMethods\UseQueryMethods\obj\Debug\UseQueryMethods.exe
+C:\jxl\教案\C#面向对象程序设计\3 C#4.0与.NET 4.0面向对象程序进阶\4 Lambda表达式、扩展方法与通用集合运算符\SourceCode\UseQueryMethods\UseQueryMethods\obj\Debug\UseQueryMethods.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\UseQueryMethods\obj\Debug\UseQueryMethods.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\UseQueryMethods\obj\Debug\UseQueryMethods.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\UseQueryMethods\bin\Debug\UseQueryMethods.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\UseQueryMethods\bin\Debug\UseQueryMethods.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\UseQueryMethods\obj\Debug\UseQueryMethods.csprojResolveAssemblyReference.cache
+E:\CollectionQueryDemo\UseQueryMethods\bin\Debug\UseQueryMethods.exe
+E:\CollectionQueryDemo\UseQueryMethods\bin\Debug\UseQueryMethods.pdb
+E:\CollectionQueryDemo\UseQueryMethods\obj\Debug\UseQueryMethods.csprojResolveAssemblyReference.cache
+E:\CollectionQueryDemo\UseQueryMethods\obj\Debug\UseQueryMethods.exe
+E:\CollectionQueryDemo\UseQueryMethods\obj\Debug\UseQueryMethods.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\示例\CollectionQueryDemo\UseQueryMethods\bin\Debug\UseQueryMethods.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\示例\CollectionQueryDemo\UseQueryMethods\bin\Debug\UseQueryMethods.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\示例\CollectionQueryDemo\UseQueryMethods\obj\Debug\UseQueryMethods.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\示例\CollectionQueryDemo\UseQueryMethods\obj\Debug\UseQueryMethods.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\示例\CollectionQueryDemo\UseQueryMethods\obj\Debug\UseQueryMethods.pdb

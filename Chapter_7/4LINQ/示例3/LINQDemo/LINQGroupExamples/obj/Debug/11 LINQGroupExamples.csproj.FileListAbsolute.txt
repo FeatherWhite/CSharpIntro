@@ -1,0 +1,12 @@
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\LINQGroupExamples\bin\Debug\LINQGroupExamples.exe.config
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\LINQGroupExamples\bin\Debug\LINQGroupExamples.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\LINQGroupExamples\bin\Debug\LINQGroupExamples.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\LINQGroupExamples\obj\Debug\11 LINQGroupExamples.csprojResolveAssemblyReference.cache
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\LINQGroupExamples\obj\Debug\LINQGroupExamples.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\LINQGroupExamples\obj\Debug\LINQGroupExamples.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 LINQ基础\LINQDemos\LINQGroupExamples\bin\Debug\LINQGroupExamples.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 LINQ基础\LINQDemos\LINQGroupExamples\obj\Debug\LINQGroupExamples.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\3 LINQ基础\LINQDemos\LINQGroupExamples\obj\Debug\LINQGroupExamples.pdb
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\LINQGroupExamples\bin\Debug\LINQGroupExamples.exe.config
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\LINQGroupExamples\obj\Debug\LINQGroupExamples.exe
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\LINQGroupExamples\obj\Debug\LINQGroupExamples.pdb

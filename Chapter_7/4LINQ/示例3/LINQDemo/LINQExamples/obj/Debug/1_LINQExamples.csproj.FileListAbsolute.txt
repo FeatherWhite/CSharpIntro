@@ -1,0 +1,11 @@
+F:\LINQDemo\LINQExamples\bin\Debug\LINQExamples.exe.config
+F:\LINQDemo\LINQExamples\bin\Debug\LINQExamples.exe
+F:\LINQDemo\LINQExamples\bin\Debug\LINQExamples.pdb
+F:\LINQDemo\LINQExamples\obj\Debug\LINQExamples.exe
+F:\LINQDemo\LINQExamples\obj\Debug\LINQExamples.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例3\LINQDemo\LINQExamples\bin\Debug\LINQExamples.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例3\LINQDemo\LINQExamples\bin\Debug\LINQExamples.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例3\LINQDemo\LINQExamples\bin\Debug\LINQExamples.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例3\LINQDemo\LINQExamples\obj\Debug\1_LINQExamples.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例3\LINQDemo\LINQExamples\obj\Debug\LINQExamples.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\示例3\LINQDemo\LINQExamples\obj\Debug\LINQExamples.pdb

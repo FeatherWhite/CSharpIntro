@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MyDBModelStoreContainer" CdmEntityContainer="MyDBContext">
+    <EntitySetMapping Name="Books">
+      <EntityTypeMapping TypeName="MyDBModel.Book">
+        <MappingFragment StoreEntitySet="Book">
+          <ScalarProperty Name="BookName" ColumnName="BookName" />
+          <ScalarProperty Name="BookId" ColumnName="BookId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BookReviews">
+      <EntityTypeMapping TypeName="MyDBModel.BookReview">
+        <MappingFragment StoreEntitySet="BookReview">
+          <ScalarProperty Name="ReaderName" ColumnName="ReaderName" />
+          <ScalarProperty Name="BookId" ColumnName="BookId" />
+          <ScalarProperty Name="Review" ColumnName="Review" />
+          <ScalarProperty Name="BookReviewId" ColumnName="BookReviewId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OrderClients">
+      <EntityTypeMapping TypeName="MyDBModel.OrderClient">
+        <MappingFragment StoreEntitySet="OrderClient">
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Telephone" ColumnName="Telephone" />
+          <ScalarProperty Name="PostCode" ColumnName="PostCode" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="ClientName" ColumnName="ClientName" />
+          <ScalarProperty Name="ClientID" ColumnName="ClientID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IdentityCards">
+      <EntityTypeMapping TypeName="MyDBModel.IdentityCard">
+        <MappingFragment StoreEntitySet="IdentityCard">
+          <ScalarProperty Name="IDNumber" ColumnName="IDNumber" />
+          <ScalarProperty Name="IdentityCardId" ColumnName="IdentityCardId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="People">
+      <EntityTypeMapping TypeName="MyDBModel.Person">
+        <MappingFragment StoreEntitySet="Person">
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="PersonId" ColumnName="PersonId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="MyDBModel.Role">
+        <MappingFragment StoreEntitySet="Role">
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="MyDBModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="UserInRole" TypeName="MyDBModel.UserInRole" StoreEntitySet="UserInRole">
+      <EndProperty Name="User">
+        <ScalarProperty Name="UserId" ColumnName="UserId" />
+      </EndProperty>
+      <EndProperty Name="Role">
+        <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <EntitySetMapping Name="MyClasses">
+      <EntityTypeMapping TypeName="MyDBModel.MyClass">
+        <MappingFragment StoreEntitySet="MyClass">
+          <ScalarProperty Name="Information" ColumnName="Information" />
+          <ScalarProperty Name="MyClassContainerID" ColumnName="MyClassContainerID" />
+          <ScalarProperty Name="MyClassID" ColumnName="MyClassID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MyClassChilds">
+      <EntityTypeMapping TypeName="MyDBModel.MyClassChild">
+        <MappingFragment StoreEntitySet="MyClassChild">
+          <ScalarProperty Name="Informatin" ColumnName="Informatin" />
+          <ScalarProperty Name="MyClassID" ColumnName="MyClassID" />
+          <ScalarProperty Name="MyClassChildID" ColumnName="MyClassChildID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MyClassContainers">
+      <EntityTypeMapping TypeName="MyDBModel.MyClassContainer">
+        <MappingFragment StoreEntitySet="MyClassContainer">
+          <ScalarProperty Name="Information" ColumnName="Information" />
+          <ScalarProperty Name="MyClassContainerID" ColumnName="MyClassContainerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

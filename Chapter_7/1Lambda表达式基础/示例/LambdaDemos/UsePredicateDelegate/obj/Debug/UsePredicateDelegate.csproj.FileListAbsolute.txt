@@ -1,0 +1,7 @@
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UsePredicateDelegate\bin\Debug\UsePredicateDelegate.exe
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UsePredicateDelegate\bin\Debug\UsePredicateDelegate.pdb
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UsePredicateDelegate\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UsePredicateDelegate\obj\Debug\UsePredicateDelegate.exe
+C:\Users\JinXuLiang\AppData\Local\Temporary Projects\UsePredicateDelegate\obj\Debug\UsePredicateDelegate.pdb
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UsePredicateDelegate\UsePredicateDelegate\obj\Debug\UsePredicateDelegate.exe
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UsePredicateDelegate\UsePredicateDelegate\obj\Debug\UsePredicateDelegate.pdb

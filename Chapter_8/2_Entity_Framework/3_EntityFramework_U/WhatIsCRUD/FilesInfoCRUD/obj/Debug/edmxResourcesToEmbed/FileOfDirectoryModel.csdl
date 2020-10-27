@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SearchedFilesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tDirectory">
+    <Key>
+      <PropertyRef Name="DirectoryId" />
+    </Key>
+    <Property Name="DirectoryId" Type="Int32" Nullable="false" />
+    <Property Name="Directory" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="tFiles" Relationship="Self.FK_tFile_tDirectory" FromRole="tDirectory" ToRole="tFile" />
+  </EntityType>
+  <EntityType Name="tFile">
+    <Key>
+      <PropertyRef Name="FileId" />
+    </Key>
+    <Property Name="FileId" Type="Int32" Nullable="false" />
+    <Property Name="DirectoryId" Type="Int32" Nullable="false" />
+    <Property Name="sFile" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="tDirectory" Relationship="Self.FK_tFile_tDirectory" FromRole="tFile" ToRole="tDirectory" />
+  </EntityType>
+  <Association Name="FK_tFile_tDirectory">
+    <End Role="tDirectory" Type="Self.tDirectory" Multiplicity="1" />
+    <End Role="tFile" Type="Self.tFile" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tDirectory">
+        <PropertyRef Name="DirectoryId" />
+      </Principal>
+      <Dependent Role="tFile">
+        <PropertyRef Name="DirectoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FilesDBContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tDirectories" EntityType="Self.tDirectory" />
+    <EntitySet Name="tFiles" EntityType="Self.tFile" />
+    <AssociationSet Name="FK_tFile_tDirectory" Association="Self.FK_tFile_tDirectory">
+      <End Role="tDirectory" EntitySet="tDirectories" />
+      <End Role="tFile" EntitySet="tFiles" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

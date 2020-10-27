@@ -1,0 +1,42 @@
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\CRUDDemo\CRUDTest\obj\Debug\CRUDTest.csprojResolveAssemblyReference.cache
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\CRUDDemo\CRUDTest\bin\Debug\CRUDTest.dll.config
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\CRUDDemo\CRUDTest\bin\Debug\CRUDTest.dll
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\CRUDDemo\CRUDTest\bin\Debug\CRUDTest.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\CRUDDemo\CRUDTest\bin\Debug\CRUD.exe
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\CRUDDemo\CRUDTest\bin\Debug\EntityFramework.dll
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\CRUDDemo\CRUDTest\bin\Debug\EntityFramework.SqlServer.dll
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\CRUDDemo\CRUDTest\bin\Debug\CRUD.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\CRUDDemo\CRUDTest\bin\Debug\EntityFramework.xml
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\CRUDDemo\CRUDTest\bin\Debug\EntityFramework.SqlServer.xml
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\CRUDDemo\CRUDTest\obj\Debug\CRUDTest.dll
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\CRUDDemo\CRUDTest\obj\Debug\CRUDTest.pdb
+E:\CRUDDemo\CRUDTest\bin\Debug\CRUDTest.dll.config
+E:\CRUDDemo\CRUDTest\bin\Debug\CRUDTest.dll
+E:\CRUDDemo\CRUDTest\bin\Debug\CRUDTest.pdb
+E:\CRUDDemo\CRUDTest\bin\Debug\CRUD.exe
+E:\CRUDDemo\CRUDTest\bin\Debug\EntityFramework.dll
+E:\CRUDDemo\CRUDTest\bin\Debug\EntityFramework.SqlServer.dll
+E:\CRUDDemo\CRUDTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\CRUDDemo\CRUDTest\bin\Debug\CRUD.pdb
+E:\CRUDDemo\CRUDTest\bin\Debug\EntityFramework.xml
+E:\CRUDDemo\CRUDTest\bin\Debug\EntityFramework.SqlServer.xml
+E:\CRUDDemo\CRUDTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\CRUDDemo\CRUDTest\obj\Debug\CRUDTest.csprojResolveAssemblyReference.cache
+E:\CRUDDemo\CRUDTest\obj\Debug\CRUDTest.dll
+E:\CRUDDemo\CRUDTest\obj\Debug\CRUDTest.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\bin\Debug\CRUDTest.dll.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\bin\Debug\CRUDTest.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\bin\Debug\CRUDTest.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\bin\Debug\CRUD.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\bin\Debug\EntityFramework.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\bin\Debug\EntityFramework.SqlServer.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\bin\Debug\CRUD.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\bin\Debug\CRUD.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\bin\Debug\EntityFramework.xml
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\bin\Debug\EntityFramework.SqlServer.xml
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\obj\Debug\CRUDTest.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\obj\Debug\CRUDTest.csproj.CopyComplete
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\obj\Debug\CRUDTest.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\3_使用EntityFramework修改数据\示例\CRUDDemo\CRUDTest\obj\Debug\CRUDTest.pdb

@@ -1,0 +1,6 @@
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\LINQExamples\bin\Debug\LINQExamples.exe.config
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\LINQExamples\obj\Debug\LINQExamples.csprojResolveAssemblyReference.cache
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\LINQExamples\bin\Debug\LINQExamples.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\LINQExamples\bin\Debug\LINQExamples.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\LINQExamples\obj\Debug\LINQExamples.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\LINQExamples\obj\Debug\LINQExamples.pdb

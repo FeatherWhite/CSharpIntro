@@ -1,0 +1,6 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\GetFileInfo\bin\Debug\GetFileInfo.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\GetFileInfo\bin\Debug\GetFileInfo.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\GetFileInfo\bin\Debug\GetFileInfo.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\GetFileInfo\obj\Debug\GetFileInfo.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\GetFileInfo\obj\Debug\GetFileInfo.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\GetFileInfo\obj\Debug\2_GetFileInfo.csprojAssemblyReference.cache

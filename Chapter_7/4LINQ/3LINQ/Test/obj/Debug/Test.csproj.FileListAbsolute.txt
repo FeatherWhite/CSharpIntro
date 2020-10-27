@@ -1,0 +1,5 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\Test\bin\Debug\Test.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\Test\bin\Debug\Test.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\Test\bin\Debug\Test.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\Test\obj\Debug\Test.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\Test\obj\Debug\Test.pdb

@@ -1,0 +1,38 @@
+E:\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityAssociationTest.dll.config
+E:\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityAssociationTest.dll
+E:\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityAssociationTest.pdb
+E:\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityAssociation.exe
+E:\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityFramework.dll
+E:\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityFramework.SqlServer.dll
+E:\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityAssociation.pdb
+E:\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityFramework.xml
+E:\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityFramework.SqlServer.xml
+E:\EntityAssociationDemo\EntityAssociationTest\obj\Debug\EntityAssociationTest.csprojResolveAssemblyReference.cache
+E:\EntityAssociationDemo\EntityAssociationTest\obj\Debug\EntityAssociationTest.dll
+E:\EntityAssociationDemo\EntityAssociationTest\obj\Debug\EntityAssociationTest.pdb
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityAssociationTest.dll.config
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityAssociationTest.dll
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityAssociationTest.pdb
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityAssociation.exe
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityFramework.dll
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityAssociation.pdb
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityFramework.xml
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociationTest\obj\Debug\EntityAssociationTest.csprojResolveAssemblyReference.cache
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociationTest\obj\Debug\EntityAssociationTest.dll
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociationTest\obj\Debug\EntityAssociationTest.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\EntityAssociationDemo\EntityAssociationTest\obj\Debug\EntityAssociationTest.csprojResolveAssemblyReference.cache
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\EntityAssociationDemo\EntityAssociationTest\obj\Debug\EntityAssociationTest.dll
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\EntityAssociationDemo\EntityAssociationTest\obj\Debug\EntityAssociationTest.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityAssociationTest.dll.config
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityAssociationTest.dll
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityAssociationTest.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityAssociation.exe
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityFramework.dll
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityFramework.SqlServer.dll
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityAssociation.pdb
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityFramework.xml
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\EntityFramework.SqlServer.xml
+F:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\EntityAssociationDemo\EntityAssociationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml

@@ -1,0 +1,6 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\2IntroToLINQ\2IntroToLINQ\bin\Debug\2IntroToLINQ.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\2IntroToLINQ\2IntroToLINQ\bin\Debug\2IntroToLINQ.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\2IntroToLINQ\2IntroToLINQ\bin\Debug\2IntroToLINQ.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\2IntroToLINQ\2IntroToLINQ\obj\Debug\2IntroToLINQ.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\2IntroToLINQ\2IntroToLINQ\obj\Debug\2IntroToLINQ.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\2IntroToLINQ\2IntroToLINQ\obj\Debug\2IntroToLINQ.pdb

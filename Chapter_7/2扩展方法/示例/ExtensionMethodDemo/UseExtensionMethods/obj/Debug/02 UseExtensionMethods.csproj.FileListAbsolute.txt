@@ -1,0 +1,6 @@
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\UseExtensionMethods\bin\Debug\UseExtensionMethods.exe.config
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\UseExtensionMethods\obj\Debug\UseExtensionMethods.exe
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\UseExtensionMethods\obj\Debug\UseExtensionMethods.pdb
+E:\ExtensionMethodDemo\UseExtensionMethods\bin\Debug\UseExtensionMethods.exe.config
+E:\ExtensionMethodDemo\UseExtensionMethods\obj\Debug\UseExtensionMethods.exe
+E:\ExtensionMethodDemo\UseExtensionMethods\obj\Debug\UseExtensionMethods.pdb

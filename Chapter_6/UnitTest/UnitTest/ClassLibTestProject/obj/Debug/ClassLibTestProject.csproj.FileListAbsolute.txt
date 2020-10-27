@@ -1,0 +1,15 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLibTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLibTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLibTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLibTestProject\bin\Debug\ClassLibTestProject.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLibTestProject\bin\Debug\ClassLibTestProject.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLibTestProject\bin\Debug\ClassLib.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLibTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLibTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLibTestProject\bin\Debug\ClassLib.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLibTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLibTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLibTestProject\obj\Debug\ClassLibTestProject.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLibTestProject\obj\Debug\ClassLibTestProject.csproj.CopyComplete
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLibTestProject\obj\Debug\ClassLibTestProject.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_6\UnitTest\UnitTest\ClassLibTestProject\obj\Debug\ClassLibTestProject.pdb

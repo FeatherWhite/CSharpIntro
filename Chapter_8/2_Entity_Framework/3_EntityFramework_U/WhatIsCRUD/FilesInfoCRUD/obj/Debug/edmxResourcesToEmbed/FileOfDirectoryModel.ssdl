@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SearchedFilesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tDirectory">
+    <Key>
+      <PropertyRef Name="DirectoryId" />
+    </Key>
+    <Property Name="DirectoryId" Type="int" Nullable="false" />
+    <Property Name="Directory" Type="nchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tFile">
+    <Key>
+      <PropertyRef Name="FileId" />
+    </Key>
+    <Property Name="FileId" Type="int" Nullable="false" />
+    <Property Name="DirectoryId" Type="int" Nullable="false" />
+    <Property Name="sFile" Type="nchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_tFile_tDirectory">
+    <End Role="tDirectory" Type="Self.tDirectory" Multiplicity="1" />
+    <End Role="tFile" Type="Self.tFile" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tDirectory">
+        <PropertyRef Name="DirectoryId" />
+      </Principal>
+      <Dependent Role="tFile">
+        <PropertyRef Name="DirectoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SearchedFilesModelStoreContainer">
+    <EntitySet Name="tDirectory" EntityType="Self.tDirectory" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tFile" EntityType="Self.tFile" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_tFile_tDirectory" Association="Self.FK_tFile_tDirectory">
+      <End Role="tDirectory" EntitySet="tDirectory" />
+      <End Role="tFile" EntitySet="tFile" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

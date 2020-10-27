@@ -1,0 +1,3 @@
+F:\IntroToLINQ\IntroToLINQ\bin\Debug\IntroToLINQ.exe.config
+F:\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.exe
+F:\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.pdb

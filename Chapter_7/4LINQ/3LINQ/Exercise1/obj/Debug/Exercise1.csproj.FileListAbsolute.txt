@@ -1,0 +1,6 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\Exercise1\bin\Debug\Exercise1.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\Exercise1\bin\Debug\Exercise1.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\Exercise1\bin\Debug\Exercise1.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\Exercise1\obj\Debug\Exercise1.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\Exercise1\obj\Debug\Exercise1.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\Exercise1\obj\Debug\Exercise1.pdb

@@ -1,0 +1,9 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\CountTheFrequencyOfWords\bin\Debug\CountTheFrequencyOfWords.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\CountTheFrequencyOfWords\bin\Debug\CountTheFrequencyOfWords.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\CountTheFrequencyOfWords\bin\Debug\CountTheFrequencyOfWords.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\CountTheFrequencyOfWords\obj\Debug\4_CountTheFrequencyOfWords.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\CountTheFrequencyOfWords\obj\Debug\CountTheFrequencyOfWords.frmMain.resources
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\CountTheFrequencyOfWords\obj\Debug\CountTheFrequencyOfWords.Properties.Resources.resources
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\CountTheFrequencyOfWords\obj\Debug\4_CountTheFrequencyOfWords.csproj.GenerateResource.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\CountTheFrequencyOfWords\obj\Debug\CountTheFrequencyOfWords.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\CountTheFrequencyOfWords\obj\Debug\CountTheFrequencyOfWords.pdb

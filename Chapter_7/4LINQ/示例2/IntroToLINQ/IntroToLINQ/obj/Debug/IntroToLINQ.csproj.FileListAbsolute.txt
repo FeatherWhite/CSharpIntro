@@ -1,0 +1,23 @@
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\5 LINQ基础\SourceCode\IntroToLINQ\IntroToLINQ\bin\Debug\IntroToLINQ.exe
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\5 LINQ基础\SourceCode\IntroToLINQ\IntroToLINQ\bin\Debug\IntroToLINQ.pdb
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\5 LINQ基础\SourceCode\IntroToLINQ\IntroToLINQ\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\5 LINQ基础\SourceCode\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.exe
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\5 LINQ基础\SourceCode\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.pdb
+D:\jxl\教案\C#面向对象程序设计\3 C#3.0与.NET 3.5面向对象编程进阶\5 LINQ基础\SourceCode\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.exe
+D:\jxl\教案\C#面向对象程序设计\3 C#3.0与.NET 3.5面向对象编程进阶\5 LINQ基础\SourceCode\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.pdb
+D:\面向对象的艺术\第5篇 数据存取技术\第30章 LINQ to Object\SourceCode\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.exe
+D:\面向对象的艺术\第5篇 数据存取技术\第30章 LINQ to Object\SourceCode\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.pdb
+D:\面向对象的艺术\第5篇 数据存取技术\第30章 LINQ to Object\SourceCode\IntroToLINQ\IntroToLINQ\bin\Debug\IntroToLINQ.exe
+D:\面向对象的艺术\第5篇 数据存取技术\第30章 LINQ to Object\SourceCode\IntroToLINQ\IntroToLINQ\bin\Debug\IntroToLINQ.pdb
+D:\面向对象的艺术\第5篇 数据存取技术\第30章 LINQ to Object\SourceCode\IntroToLINQ\IntroToLINQ\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\教案\C#面向对象程序设计\3 C#4.0与.NET 4.0面向对象程序进阶\5 LINQ基础\SourceCode\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.exe
+C:\jxl\教案\C#面向对象程序设计\3 C#4.0与.NET 4.0面向对象程序进阶\5 LINQ基础\SourceCode\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.pdb
+C:\jxl\教案\C#面向对象程序设计\3 C#4.0与.NET 4.0面向对象程序进阶\5 LINQ基础\SourceCode\IntroToLINQ\IntroToLINQ\bin\Debug\IntroToLINQ.exe
+C:\jxl\教案\C#面向对象程序设计\3 C#4.0与.NET 4.0面向对象程序进阶\5 LINQ基础\SourceCode\IntroToLINQ\IntroToLINQ\bin\Debug\IntroToLINQ.pdb
+C:\jxl\教案\C#面向对象程序设计\3 C#4.0与.NET 4.0面向对象程序进阶\5 LINQ基础\SourceCode\IntroToLINQ\IntroToLINQ\obj\Debug\ResolveAssemblyReference.cache
+F:\IntroToLINQ\IntroToLINQ\bin\Debug\IntroToLINQ.exe.config
+F:\IntroToLINQ\IntroToLINQ\bin\Debug\IntroToLINQ.exe
+F:\IntroToLINQ\IntroToLINQ\bin\Debug\IntroToLINQ.pdb
+F:\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.csprojResolveAssemblyReference.cache
+F:\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.exe
+F:\IntroToLINQ\IntroToLINQ\obj\Debug\IntroToLINQ.pdb

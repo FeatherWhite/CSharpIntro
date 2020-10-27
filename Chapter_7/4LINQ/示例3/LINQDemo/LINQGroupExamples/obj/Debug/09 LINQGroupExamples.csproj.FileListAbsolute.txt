@@ -1,0 +1,6 @@
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\LINQGroupExamples\bin\Debug\LINQGroupExamples.exe.config
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\LINQGroupExamples\obj\Debug\LINQGroupExamples.exe
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\LINQGroupExamples\obj\Debug\LINQGroupExamples.pdb
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\LINQGroupExamples\bin\Debug\LINQGroupExamples.exe
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\LINQGroupExamples\bin\Debug\LINQGroupExamples.pdb
+E:\MOOC\录课视频相关文件\第二系列\第2单元 LINQ\LINQDemos\LINQGroupExamples\obj\Debug\09 LINQGroupExamples.csprojResolveAssemblyReference.cache

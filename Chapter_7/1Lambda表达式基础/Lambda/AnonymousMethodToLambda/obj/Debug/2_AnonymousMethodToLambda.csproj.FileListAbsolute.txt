@@ -1,0 +1,6 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\Lambda表达式基础\Lambda\AnonymousMethodToLambda\bin\Debug\AnonymousMethodToLambda.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\Lambda表达式基础\Lambda\AnonymousMethodToLambda\bin\Debug\AnonymousMethodToLambda.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\Lambda表达式基础\Lambda\AnonymousMethodToLambda\bin\Debug\AnonymousMethodToLambda.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\Lambda表达式基础\Lambda\AnonymousMethodToLambda\obj\Debug\2_AnonymousMethodToLambda.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\Lambda表达式基础\Lambda\AnonymousMethodToLambda\obj\Debug\AnonymousMethodToLambda.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\Lambda表达式基础\Lambda\AnonymousMethodToLambda\obj\Debug\AnonymousMethodToLambda.pdb

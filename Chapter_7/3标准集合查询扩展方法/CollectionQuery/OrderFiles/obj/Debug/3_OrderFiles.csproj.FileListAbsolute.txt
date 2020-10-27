@@ -1,0 +1,6 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\OrderFiles\bin\Debug\OrderFiles.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\OrderFiles\bin\Debug\OrderFiles.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\OrderFiles\bin\Debug\OrderFiles.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\OrderFiles\obj\Debug\3_OrderFiles.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\OrderFiles\obj\Debug\OrderFiles.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\3标准集合查询扩展方法\CollectionQuery\OrderFiles\obj\Debug\OrderFiles.pdb

@@ -1,0 +1,6 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\UseExtensionMethods\bin\Debug\UseExtensionMethods.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\UseExtensionMethods\bin\Debug\UseExtensionMethods.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\UseExtensionMethods\bin\Debug\UseExtensionMethods.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\UseExtensionMethods\obj\Debug\1_UseExtensionMethods.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\UseExtensionMethods\obj\Debug\UseExtensionMethods.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\UseExtensionMethods\obj\Debug\UseExtensionMethods.pdb

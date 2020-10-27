@@ -1,0 +1,6 @@
+E:\LambdaDemos\AnonymousMethodToLambda\bin\Debug\UseAnonymousMethod.exe.config
+E:\LambdaDemos\AnonymousMethodToLambda\bin\Debug\UseAnonymousMethod.exe
+E:\LambdaDemos\AnonymousMethodToLambda\bin\Debug\UseAnonymousMethod.pdb
+E:\LambdaDemos\AnonymousMethodToLambda\obj\Debug\2_AnonymousMethodToLambda.csprojResolveAssemblyReference.cache
+E:\LambdaDemos\AnonymousMethodToLambda\obj\Debug\UseAnonymousMethod.exe
+E:\LambdaDemos\AnonymousMethodToLambda\obj\Debug\UseAnonymousMethod.pdb

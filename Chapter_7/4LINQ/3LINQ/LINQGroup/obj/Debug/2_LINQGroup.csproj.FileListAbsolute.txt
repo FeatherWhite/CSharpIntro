@@ -1,0 +1,6 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\LINQGroup\bin\Debug\LINQGroup.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\LINQGroup\bin\Debug\LINQGroup.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\LINQGroup\bin\Debug\LINQGroup.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\LINQGroup\obj\Debug\2_LINQGroup.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\LINQGroup\obj\Debug\LINQGroup.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\4LINQ\3LINQ\LINQGroup\obj\Debug\LINQGroup.pdb

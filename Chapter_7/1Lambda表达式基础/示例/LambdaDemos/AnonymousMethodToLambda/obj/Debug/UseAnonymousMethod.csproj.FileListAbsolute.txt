@@ -1,0 +1,15 @@
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UseAnonymousMethod\UseAnonymousMethod\bin\Debug\UseAnonymousMethod.exe
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UseAnonymousMethod\UseAnonymousMethod\bin\Debug\UseAnonymousMethod.pdb
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UseAnonymousMethod\UseAnonymousMethod\obj\Debug\ResolveAssemblyReference.cache
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UseAnonymousMethod\UseAnonymousMethod\obj\Debug\UseAnonymousMethod.exe
+D:\jxl\ITCAST讲座\C#3.0与.NET 3.5面向对象编程进阶\委托与Lambda表达式\SourceCode\UseAnonymousMethod\UseAnonymousMethod\obj\Debug\UseAnonymousMethod.pdb
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseAnonymousMethod\UseAnonymousMethod\bin\Debug\UseAnonymousMethod.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseAnonymousMethod\UseAnonymousMethod\bin\Debug\UseAnonymousMethod.pdb
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseAnonymousMethod\UseAnonymousMethod\obj\Debug\ResolveAssemblyReference.cache
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseAnonymousMethod\UseAnonymousMethod\obj\Debug\UseAnonymousMethod.exe
+C:\jxl\教案\OOAD（研究生版）\1 面向对象基础知识的复习\3 委托与事件\SourceCode\UseAnonymousMethod\UseAnonymousMethod\obj\Debug\UseAnonymousMethod.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\UseAnonymousMethod\UseAnonymousMethod\obj\Debug\UseAnonymousMethod.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\UseAnonymousMethod\UseAnonymousMethod\obj\Debug\UseAnonymousMethod.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\UseAnonymousMethod\UseAnonymousMethod\bin\Debug\UseAnonymousMethod.exe
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\UseAnonymousMethod\UseAnonymousMethod\bin\Debug\UseAnonymousMethod.pdb
+D:\jxl\上课幻灯片\OOAD（本科生版-2011）\1 打好面向对象编程基础\4 委托与事件\SourceCode\UseAnonymousMethod\UseAnonymousMethod\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Mooc\人大MOOC\8 数据库开发技术基础\1 基础\Lambda表达式\LambdaDemos\AnonymousMethodToLambda\bin\Debug\UseAnonymousMethod.exe.config
+C:\Mooc\人大MOOC\8 数据库开发技术基础\1 基础\Lambda表达式\LambdaDemos\AnonymousMethodToLambda\obj\Debug\UseAnonymousMethod.exe
+C:\Mooc\人大MOOC\8 数据库开发技术基础\1 基础\Lambda表达式\LambdaDemos\AnonymousMethodToLambda\obj\Debug\UseAnonymousMethod.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\8 Lambda表达式\LambdaDemos\AnonymousMethodToLambda\bin\Debug\UseAnonymousMethod.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\8 Lambda表达式\LambdaDemos\AnonymousMethodToLambda\obj\Debug\UseAnonymousMethod.exe
+E:\MOOC\录课视频相关文件\人大MOOC\6 C#面向对象编程进阶及面向对象软件开发理论基础\8 Lambda表达式\LambdaDemos\AnonymousMethodToLambda\obj\Debug\UseAnonymousMethod.pdb

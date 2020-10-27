@@ -1,0 +1,6 @@
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\Exercise\bin\Debug\Exercise.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\Exercise\bin\Debug\Exercise.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\Exercise\bin\Debug\Exercise.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\Exercise\obj\Debug\Exercise.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_7\扩展方法\ExtensionMethod\Exercise\obj\Debug\Exercise.pdb

@@ -1,0 +1,9 @@
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\WriteToConsole\bin\Debug\WriteToConsole.exe.config
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\WriteToConsole\bin\Debug\WriteToConsole.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\WriteToConsole\bin\Debug\WriteToConsole.pdb
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\WriteToConsole\obj\Debug\6 WriteToConsole.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\WriteToConsole\obj\Debug\WriteToConsole.exe
+E:\MOOC\录课视频相关文件\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\WriteToConsole\obj\Debug\WriteToConsole.pdb
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\WriteToConsole\bin\Debug\WriteToConsole.exe.config
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\WriteToConsole\obj\Debug\WriteToConsole.exe
+C:\Users\jerry\Desktop\第二系列\1 dotNet核心技术选讲\1 LINQ基础\LINQDemos\WriteToConsole\obj\Debug\WriteToConsole.pdb

@@ -1,0 +1,57 @@
+E:\EntityAssociationDemo\OneToOne\bin\Debug\EntityAssociation.exe.config
+E:\EntityAssociationDemo\OneToOne\bin\Debug\EntityAssociation.exe
+E:\EntityAssociationDemo\OneToOne\bin\Debug\EntityAssociation.pdb
+E:\EntityAssociationDemo\OneToOne\bin\Debug\EntityFramework.dll
+E:\EntityAssociationDemo\OneToOne\bin\Debug\EntityFramework.SqlServer.dll
+E:\EntityAssociationDemo\OneToOne\bin\Debug\EntityFramework.xml
+E:\EntityAssociationDemo\OneToOne\bin\Debug\EntityFramework.SqlServer.xml
+E:\EntityAssociationDemo\OneToOne\obj\Debug\EntityAssociation.exe
+E:\EntityAssociationDemo\OneToOne\obj\Debug\EntityAssociation.pdb
+E:\EntityAssociationDemo\EntityAssociation\bin\Debug\EntityAssociation.exe.config
+E:\EntityAssociationDemo\EntityAssociation\bin\Debug\EntityAssociation.exe
+E:\EntityAssociationDemo\EntityAssociation\bin\Debug\EntityAssociation.pdb
+E:\EntityAssociationDemo\EntityAssociation\bin\Debug\EntityFramework.dll
+E:\EntityAssociationDemo\EntityAssociation\bin\Debug\EntityFramework.SqlServer.dll
+E:\EntityAssociationDemo\EntityAssociation\bin\Debug\EntityFramework.xml
+E:\EntityAssociationDemo\EntityAssociation\bin\Debug\EntityFramework.SqlServer.xml
+E:\EntityAssociationDemo\EntityAssociation\obj\Debug\EntityAssociation.exe
+E:\EntityAssociationDemo\EntityAssociation\obj\Debug\EntityAssociation.pdb
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociation\bin\Debug\EntityAssociation.exe.config
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociation\bin\Debug\EntityAssociation.exe
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociation\bin\Debug\EntityAssociation.pdb
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociation\bin\Debug\EntityFramework.dll
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociation\bin\Debug\EntityFramework.SqlServer.dll
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociation\bin\Debug\EntityFramework.xml
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociation\bin\Debug\EntityFramework.SqlServer.xml
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociation\obj\Debug\EntityAssociation.exe
+C:\MOOC\第二系列\PPT和源码\第5单元 Entity Framework\EntityAssociationDemo\EntityAssociation\obj\Debug\EntityAssociation.pdb
+E:\EntityAssociationDemo\EntityAssociation\obj\Debug\EntityAssociation.csprojResolveAssemblyReference.cache
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\EntityAssociation\bin\Debug\EntityAssociation.exe.config
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\EntityAssociation\bin\Debug\EntityAssociation.exe
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\EntityAssociation\bin\Debug\EntityAssociation.pdb
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\EntityAssociation\bin\Debug\EntityFramework.dll
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\EntityAssociation\bin\Debug\EntityFramework.SqlServer.dll
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\EntityAssociation\bin\Debug\EntityFramework.xml
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\EntityAssociation\bin\Debug\EntityFramework.SqlServer.xml
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\EntityAssociation\obj\Debug\EntityAssociation.exe
+E:\MOOC\录课视频相关文件\人大MOOC\7 数据库开发技术基础\2 Entity Framework\2 数据的查询\EFQueryDemos\EntityAssociation\obj\Debug\EntityAssociation.pdb
+F:\EFQueryDemos\EntityAssociation\bin\Debug\EntityAssociation.exe.config
+F:\EFQueryDemos\EntityAssociation\bin\Debug\EntityAssociation.exe
+F:\EFQueryDemos\EntityAssociation\bin\Debug\EntityAssociation.pdb
+F:\EFQueryDemos\EntityAssociation\bin\Debug\EntityFramework.dll
+F:\EFQueryDemos\EntityAssociation\bin\Debug\EntityFramework.SqlServer.dll
+F:\EFQueryDemos\EntityAssociation\bin\Debug\EntityFramework.xml
+F:\EFQueryDemos\EntityAssociation\bin\Debug\EntityFramework.SqlServer.xml
+F:\EFQueryDemos\EntityAssociation\obj\Debug\EntityAssociation.exe
+F:\EFQueryDemos\EntityAssociation\obj\Debug\EntityAssociation.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\示例\EFQueryDemos\EntityAssociation\bin\Debug\EntityAssociation.exe.config
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\示例\EFQueryDemos\EntityAssociation\bin\Debug\EntityAssociation.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\示例\EFQueryDemos\EntityAssociation\bin\Debug\EntityAssociation.pdb
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\示例\EFQueryDemos\EntityAssociation\bin\Debug\EntityFramework.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\示例\EFQueryDemos\EntityAssociation\bin\Debug\EntityFramework.SqlServer.dll
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\示例\EFQueryDemos\EntityAssociation\bin\Debug\EntityFramework.xml
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\示例\EFQueryDemos\EntityAssociation\bin\Debug\EntityFramework.SqlServer.xml
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\示例\EFQueryDemos\EntityAssociation\obj\Debug\EntityAssociation.csprojAssemblyReference.cache
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\示例\EFQueryDemos\EntityAssociation\obj\Debug\EntityAssociation.csproj.CopyComplete
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\示例\EFQueryDemos\EntityAssociation\obj\Debug\EntityAssociation.exe
+E:\doucments\visual_studio_2019\projects\CsharpFundamentals\jin\Chapter_8\2_Entity Framework开发技术基础\2_使用EntityFramework查询数据\示例\EFQueryDemos\EntityAssociation\obj\Debug\EntityAssociation.pdb
